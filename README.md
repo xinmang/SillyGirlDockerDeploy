@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinmang)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 使用教程
 
 **前提条件：Git、Docker、 Docker-compose**
